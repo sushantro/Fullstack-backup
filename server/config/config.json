@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Yashasvi$321",
+    "database": "Tutsdb",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "Yashasvi$321",
+    "database": "database_test",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "Yashasvi$321",
+    "database": "database_production",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
